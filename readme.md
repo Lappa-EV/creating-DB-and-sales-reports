@@ -1,6 +1,6 @@
 # creating-DB-and-sales-reports
 
-## [Задание на построение базы данных](https://github.com/Lappa-EV/creating-DB-and-sales-reports/test_task.pdf)
+## [Задание на построение базы данных](https://github.com/Lappa-EV/creating-DB-and-sales-reports/blob/main/test_task.pdf)
 
 По заданию необходимо:
 1. Написать sql-код для создания базы данных учета покупок в сети магазинов.
